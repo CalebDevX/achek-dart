@@ -1,0 +1,17 @@
+name: achek
+description: Official Dart SDK for Achek — WhatsApp OTP, AI chatbots & business messaging for Nigeria.
+version: 2.0.0
+homepage: https://achek.com.ng
+repository: https://github.com/CalebDevX/achek-dart.git
+issue_tracker: https://github.com/CalebDevX/achek-dart/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
+  crypto: ^3.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
